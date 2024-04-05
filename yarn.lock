@@ -1733,6 +1733,11 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.10.1.tgz#7ca168b6937818e9a74b47ac4e2112b2e1a024cf"
   integrity sha512-S3Kq8e7LqxkA9s7HKLqXGTGck1uwis5vAXan3FnU5yw1Ec5hsSGnq4s/UCaSqABPOnOTg7zASLyst7+ohgWexg==
 
+"@sigma/edge-curve@^3.0.0-beta.5":
+  version "3.0.0-beta.5"
+  resolved "https://registry.yarnpkg.com/@sigma/edge-curve/-/edge-curve-3.0.0-beta.5.tgz#814b38e40a0d92b40a510e549394d9e577983e7f"
+  integrity sha512-auq+7dVV5H90+2r27hWwF4aJLhQwv0B4w0mFwOuV04lGRK/gsQ8k+4XLtrmIFwkfC65CrGj9E5dkQaPyKECNDw==
+
 "@sinclair/typebox@^0.24.1":
   version "0.24.51"
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.24.51.tgz#645f33fe4e02defe26f2f5c0410e1c094eac7f5f"

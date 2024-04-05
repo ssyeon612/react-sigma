@@ -1,8 +1,8 @@
 import "./App.css";
-import DisplayGraph from "./graph";
+import CustomGraph from "./graph";
 
 function App() {
-  return <DisplayGraph />;
+  return <CustomGraph />;
 }
 
 export default App;
